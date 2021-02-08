@@ -1,4 +1,5 @@
 print("Hello World")
+print("Wow")
 a = 12
 print(a)
 print(5)
