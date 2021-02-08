@@ -1,5 +1,5 @@
 print("Hello World")
-a = 12
+b = 12
 print(a)
 print(5)
 print("New row")
